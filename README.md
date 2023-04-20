@@ -6,7 +6,7 @@ All of these artifacts are either my own IP, or are from client engagements or j
 
 You've been granted access to this repo for a limited time, purely for your reading and evaluation, hence the artifacts should not be cloned nor shared with others, and I would appreciate if you treat this as a private communication.
 
-It's divided into 3 sections by artifact type.
+It's divided into sections by artifact type.
 
 ## documents
 
@@ -16,6 +16,11 @@ It's divided into 3 sections by artifact type.
 - _PDOM Functional Specification_ - functional specification for the Persistent Distributed Object Manager, a Smalltalk-80 package that replicated objects, transactions, queries, database management, and other computational assets, operations, and resources across geographically-distributed Smalltalk Virtual Machines.
 - _Modular Platform Proposal_ - proposal to adopt more powerful higher-order data and operation semantics in an event processing system, in order to radically simplify code, and improve overall stability.
 - _TheProblemsWithJava_ - notes about the more serious problems with the Java language architecture and implementation, and exploration of workarounds and extensions to the language and ecosystem.
+
+## presentations
+
+- _IDIOM Infrastructure Architecture Overview_ - slide-deck covering the design, architecture, competitive analysis, and high-level design of the _IDIOM_ system management product suite I developed with Adaptec, to provide full system management fabric spanning their various storage, networking, and related product lines, running on 10 operating systems.
+- _MoneyFoundry.com Backgrounder_ - slide-deck proposing forming a new business providing financial services for personal and small business customers, circa 2001.
 
 ## code
 
