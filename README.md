@@ -13,14 +13,14 @@ It's divided into sections by artifact type.
 - _Anyone's Guide To Conversation Service_ - architectural and functional design for an integrated repository for recording and analyzing conversations and their NLP events.
 - _BPMEngineConcepts_ - high-level architectural and functional design of a workflow engine component, supporting modeling and tracking of business processes in Microsoft IT's massive supply chain system.
 - _Position Paper: Making Our Products Modular_ - very early-stage analysis of technology challenges and proposed solution faced by client rapidly growing through acquisitions, and faced with massive integration requirements.
-- _PDOM Functional Specification_ - functional specification for the Persistent Distributed Object Manager, a Smalltalk-80 package that replicated objects, transactions, queries, database management, and other computational assets, operations, and resources across geographically-distributed Smalltalk Virtual Machines.
-- _Modular Platform Proposal_ - proposal to adopt more powerful higher-order data and operation semantics in an event processing system, in order to radically simplify code, and improve overall stability.
-- _TheProblemsWithJava_ - notes about the more serious problems with the Java language architecture and implementation, and exploration of workarounds and extensions to the language and ecosystem.
+- _PDOM Functional Specification_ - functional specification for the _Persistent Distributed Object Manager_, a Smalltalk-80 package I developed and licenced to Network Intelligence, which replicated objects, transactions, queries, database management, and other computational assets, operations, and resources across geographically-distributed Smalltalk Virtual Machines.
+- _Modular Platform Proposal_ - proposal to adopt more powerful higher-order data and operation semantics in a client's event processing system, in order to radically simplify code, and improve overall stability.
+- _TheProblemsWithJava_ - notes about some of the most serious problems with the Java language architecture and implementation, and exploration of workarounds and extensions to the language and ecosystem.
 
 ## presentations
 
 - _IDIOM Infrastructure Architecture Overview_ - slide-deck covering the design, architecture, competitive analysis, and high-level design of the _IDIOM_ system management product suite I developed with Adaptec, to provide full system management fabric spanning their various storage, networking, and related product lines, running on 10 operating systems.
-- _MoneyFoundry.com Backgrounder_ - slide-deck proposing forming a new business providing financial services for personal and small business customers, circa 2001.
+- _MoneyFoundry.com Backgrounder_ - slide-deck proposing forming a new business providing financial services for personal and small business customers, circa 2001 (during one of the worst venture financing periods in history).
 
 ## code
 
@@ -32,4 +32,4 @@ A couple of sample class definition files from _EWorks_, a proprietary applicati
 
 ## legal
 
-- _CounteringPersistencePatents_for_SunMicrosystems_ - study done for Sun Microsystems to counter an IP litigation by Persistent Software, essentially invalidating Persistent's patent claims.
+- _CounteringPersistencePatents_for_SunMicrosystems_ - study done for Sun Microsystems to counter an IP litigation by Persistent Software, essentially invalidating Persistent's patent claims, based on my being the inventor of record for the technology (don't ask me why I didn't patent it myself).
